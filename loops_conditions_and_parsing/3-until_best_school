@@ -4,5 +4,5 @@ COUNT=10
 until((COUNT<=0))
 do
 echo "Best School"
-((COINT--))
+((COUNT--))
 done;
